@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://kolenchen.github.com/atom.xml" rel="self"/>
+  <link href="http://kolenchen.github.com/"/>
+  <updated>2013-02-18T11:18:35+08:00</updated>
+  <id>http://kolenchen.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[first-post]]></title>
+    <link href="http://kolenchen.github.com/blog/2013/02/18/first-post/"/>
+    <updated>2013-02-18T10:40:00+08:00</updated>
+    <id>http://kolenchen.github.com/blog/2013/02/18/first-post</id>
+    <content type="html"><![CDATA[<p>First Post!!</p>
+]]></content>
+  </entry>
+  
+</feed>
